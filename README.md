@@ -6,7 +6,7 @@ This repository contains my solutions to various **Codewars** katas, organized b
 
 ## 📁 Repository Structure
 
-C:.
+.
 ├───C#
 └───C++
 
@@ -20,7 +20,7 @@ C:.
 
 Codewars is a platform where developers improve their skills by solving programming challenges (katas) of increasing difficulty.
 
-🔗 **My Codewars profile:** https://www.codewars.com/dashboard
+🔗 **My Codewars profile:** https://www.codewars.com/users/SantiagoVico
 
 ---
 
