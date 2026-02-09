@@ -7,12 +7,9 @@ This repository contains my solutions to various **Codewars** katas, organized b
 ## 📁 Repository Structure
 
 .
+├───C
 ├───C#
 └───C++
-
-
-- **C#** – Solutions written in C#  
-- **C++** – Solutions written in C++
 
 ---
 
@@ -40,8 +37,3 @@ Codewars is a platform where developers improve their skills by solving programm
 - Feel free to explore or compare solutions, but try solving the katas yourself first! 🥋
 
 ---
-
-## ⭐ Support
-
-If you find this repository useful or interesting, feel free to **star** ⭐ it on GitHub!
-
